@@ -1,0 +1,36 @@
+.col-12 {
+    padding: 15px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-12 i {
+    margin-right: 15px;
+    font-size: 30px;
+}
+
+.sun {
+    border: 1px solid yellow;
+}
+
+.sun i {
+    color: yellow;
+}
+
+.cart {
+    border: 1px solid green;
+}
+
+.cart i {
+    color: green;
+}
+
+.drink {
+    border: 1px solid orange;
+}
+
+.drink i {
+    color: orange;
+}
